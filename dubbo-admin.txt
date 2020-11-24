@@ -8,3 +8,6 @@ registry=https://registry.npm.taobao.org
 
 3.	进入刚才下载的dubbo-admin项目下面的dubbo-admin-ui项目，
 执行npm install命令
+
+4.npm run dev进行启动
+启动之后又一个url地址，我们将其复制到浏览器打开即可
