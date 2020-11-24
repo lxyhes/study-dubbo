@@ -22,6 +22,9 @@ Mac执行命令行执行 ./zkServer.sh start
 Windows同学执行对应的cmd文件
 
 出现下面这个代表启动成功
+
+$ ./zkServer.sh start
 ZooKeeper JMX enabled by default
-Using config: /usr/local/apache-zookeeper-3.5.5/bin/../conf/zoo.cfg
+Using config: E:\IdeaProduct\3,study-class-workspace\2，study-mooc-javajiagou-project\apache-zookeeper-3.5.8-bin\apache-zookeeper-3.5.8-bin\conf\zoo.cfg
 Starting zookeeper ... STARTED
+
